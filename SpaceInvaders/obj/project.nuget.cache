@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b/KPVEMjy4nSVoTpshCEnf8C/M++k/aHhN8E1y7UbrxvasdtUBvXUikE1iQZqWZtUdWmQjK+SmegFkD9WJpYPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s2100956\\OneDrive - Business College Helsinki\\Tehtävät\\Framework kurssi\\Osa2\\Avaruuspeli\\SpaceInvaders\\SpaceInvaders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s2100956\\.nuget\\packages\\microsoft.toolkit.highperformance\\7.1.2\\microsoft.toolkit.highperformance.7.1.2.nupkg.sha512",
+    "C:\\Users\\s2100956\\.nuget\\packages\\raylib-cslo\\4.2.0.9\\raylib-cslo.4.2.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
